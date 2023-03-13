@@ -1,11 +1,11 @@
-tensorflow==2.7.0
-scikit-learn==1.0.1
+tensorflow
+scikit-learn
 wget==3.2
-Pillow==7.1.2
-matplotlib==3.2.2
-keras-vis==0.4.1
-numpy==1.19.5
+Pillow
+matplotlib
+keras-vis
+numpy
 scipy>=1.0.1
 imutils==0.5.4
-jupyter==1.0.0
+jupyter
 
