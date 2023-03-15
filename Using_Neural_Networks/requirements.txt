@@ -3,9 +3,9 @@ scikit-learn
 wget==3.2
 Pillow
 matplotlib
-keras-vis
+tf-keras-vis
 numpy
-scipy>=1.0.1
+scipy
 imutils==0.5.4
 jupyter
 
